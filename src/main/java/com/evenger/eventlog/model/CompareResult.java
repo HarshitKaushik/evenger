@@ -1,7 +1,7 @@
 package com.evenger.eventlog.model;
 
 /**
- * Model class for Comparision result JSON strings
+ * Model class for Comparison result JSON strings
  * Created by harshit on 1/11/17.
  */
 public class CompareResult {
